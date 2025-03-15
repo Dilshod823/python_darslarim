@@ -8,10 +8,10 @@ This is a temporary script file.
 
 # 1-savol
 
-# otam (onam, akam, ukam, va hokazo) degan lug'at yarating
-# va lug'atga shu inson haqida kamida 3 ta m'alumot kiriting 
-# (ismi, tu'gilgan yili, shahri, manzili va hokazo). 
-# Lug'atdagi ma'lumotni matn shaklida konsolga chiqaring :
+# otam (onam, akam, ukam, va hokazo) degan lug'at yarating-
+# va lug'atga shu inson haqida kamida 3 ta m'alumot kiriting- 
+# (ismi, tu'gilgan yili, shahri, manzili va hokazo).- 
+# Lug'atdagi ma'lumotni matn shaklida konsolga chiqaring :-
 #  Otamning ismi Mavlutdin, 1954-yilda, Samarqand viloyatida tug'ilgan
 
 otam = {'ism':'zokirov baxodir', 't_yil':1975, 'yosh':50}
